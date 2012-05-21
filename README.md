@@ -12,4 +12,6 @@ Additionally it provides the helper methods `view_name`,
 `main_template`, and `display_main_template`, which return the naively
 guessed template, the actual template and resp. a combination of both.
 
+Extracted from work at [Panter llc](http://panter.ch).
+
 This project uses MIT-LICENSE.
