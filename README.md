@@ -3,6 +3,8 @@ ViewTracker
 
 ViewTracker tracks the views which gets rendered by rails.
 
+    gem 'view_tracker'
+
 On the controller it provides an instance variable `@render_options`,
 which holds the normalized args passed to render.
 
